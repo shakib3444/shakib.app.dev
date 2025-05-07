@@ -60,9 +60,9 @@ export const experiences = [
     id: 0,
     img: webverseLogo,
     role: "Junior Flutter Developer",
-    company: "All On Autos",
+    company: "All One Autos",
     date: "February 2024 - Present",
-    desc: "Crafted responsive and user-friendly web interfaces using modern frontend technologies such as React.js and Tailwind CSS. Collaborated with cross-functional teams to translate design mockups into interactive UI, ensuring pixel-perfect implementation. Optimized frontend performance, implemented reusable components, and maintained code quality in an agile development environment.",
+    desc: "As a Junior App Developer, I create mobile apps, collaborate with senior developers, write clean code, participate in code reviews, assist in feature design, and enhance development processes with a focus on user experience and brand consistency.",
     skills: [
       "Dart",
       "OOP",
